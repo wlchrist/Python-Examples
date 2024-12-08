@@ -1,2 +1,2 @@
-# python_course
-Course for first-time Python use
+# Python-Examples
+Examples and boilerplate written in Python for demonstration purposes.
